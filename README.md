@@ -31,7 +31,7 @@ Run the project
 Deployed version
 
 ```bash
-
+  https://evelyneumubyeyi-heart-disease-prediction-model-app-qwsns8.streamlit.app/
 ```
 
 ## Authors
