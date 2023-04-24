@@ -142,7 +142,6 @@ if predict:
     if prediction == 1:
         st.subheader("❤️‍🩹 There is a possibility that you could a heart disease.")
         st.markdown("<div style='padding: 5px'></div>", unsafe_allow_html=True)
-        st.image("images/bad.jpg")
         st.markdown("""
             Based on the information you provided, it appears that you may have some risk factors for heart diseases, such as high blood pressure, high cholesterol levels, and a sedentary lifestyle. However, there are several things you can do to mitigate these risk factors and improve your heart health.
 
@@ -159,7 +158,6 @@ if predict:
     else:
         st.subheader(" 💓 You heart health seems to be okay.")
         st.markdown("<div style='padding: 5px'></div>", unsafe_allow_html=True)
-        st.image("images/good.jpg")
         st.markdown("""
             Based on the responses you provided, it seems that you do not have any heart diseases. However, it is important to maintain a healthy lifestyle to prevent the development of heart diseases and maintain good health.
 
