@@ -42,8 +42,8 @@ bp = st.selectbox('Have you ever been told that you have high blood pressure by 
 chl = st.selectbox('Have you ever been told by a doctor, nurse or other health professional that your cholesterol is high?',
                options, index=0)
 chl_chk = st.selectbox('Have you ever had Cholesterol check within past five years', options, index=0)
-height = st.number_input("What is your height in meters?", min_value=0.1)
-weight = st.number_input("What is your weight in kilograms?", min_value=0)
+height = st.number_input("What is your height in meters?", min_value=0.1, max_value=3.0)
+weight = st.number_input("What is your weight in kilograms?", min_value=0, max_value=1000)
 cigarettes = st.selectbox("Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]", options, index=0)
 stroke = st.selectbox("Have you ever been told you had a stroke?", options, index=0)
 diabetes_options = {
