@@ -58,6 +58,8 @@ Deployed version
 
 7. [Video explanation of the deployed model](https://drive.google.com/file/d/1p0y4_PA2usE7kjRM7tzxL4PDRnRDPMAG/view?usp=sharing)
 
+8. [Members contribution sheet](https://docs.google.com/spreadsheets/d/1oNJkWuceV5T3SpZkIoBvp5b6FRdncCWTt3ZV8sMNY9M/edit?usp=sharing) 
+
 ## Authors
 
 - [Evelyne Umubyeyi](https://github.com/EvelyneUmubyeyi)
