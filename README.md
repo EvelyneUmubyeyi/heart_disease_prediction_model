@@ -33,6 +33,30 @@ Deployed version
 ```bash
   https://evelyneumubyeyi-heart-disease-prediction-model-app-qwsns8.streamlit.app/
 ```
+## How App was hosted on streamlit
+1. Run the app in the terminal using this command
+```bash
+  py -m streamlit run app.py
+```
+2. In the browser where the app is running click on the humburger icon in the top right corner and select deploy option
+
+3. Sign in on streamlit website and you will be prompted to enter a link to the app.py file on the github repository of your project, and deploy.
+
+## Links
+
+1. [Project proposal](https://docs.google.com/document/d/1tUu05kNjuII5YLBLxnOP0_GM83YS6exObb6eBvz-9Yc/edit?usp=sharing)
+
+2. [Train dataset download link](https://www.cdc.gov/brfss/annual_data/annual_2021.html)
+
+3. [Codebook for train dataset](https://www.cdc.gov/brfss/annual_data/2021/pdf/codebook21_llcp-v2-508.pdf)
+
+4. [Test dataset download link](https://www.cdc.gov/brfss/annual_data/annual_2019.html)
+
+5. [Codebook for test dataset](https://www.cdc.gov/brfss/annual_data/2019/pdf/codebook19_llcp-v2-508.HTML)
+
+6. [Deployed model link](https://evelyneumubyeyi-heart-disease-prediction-model-app-qwsns8.streamlit.app/)
+
+7. [Video explanation of the deployed model](https://drive.google.com/file/d/1p0y4_PA2usE7kjRM7tzxL4PDRnRDPMAG/view?usp=sharing)
 
 ## Authors
 
@@ -40,3 +64,4 @@ Deployed version
 - [Adrine Uwera](https://github.com/AdrineUWERA)
 - [Emile Kamana](https://github.com/emilekamana)
 - [Gabin-Ishimwe](https://github.com/Gabin-ishimwe)
+- [Elisee-ISHIMWE](https://github.com/Elisee-ISHIMWE)
